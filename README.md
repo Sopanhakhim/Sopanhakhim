@@ -116,6 +116,37 @@ Webflow, Responsive Design, UI/UX, Information Architecture, Content Strategy, C
 
 [www.centurionintel.com](https://www.centurionintel.com)
 
+### Truman Middle College
+
+**Website Designer / Front-End Developer**
+
+A website redesign project for Truman Middle College focused on creating a modern, responsive, and accessible digital experience for students, families, and the school community.
+
+The project focuses on improving how important school information is organized and presented while making the website easier to navigate across desktop, tablet, and mobile devices.
+
+**My Work**
+
+- Reviewed the existing website structure and content
+- Planned a clearer page structure and navigation system
+- Reorganized information to make important resources easier to find
+- Designed modern and consistent page layouts
+- Developed responsive interfaces for different screen sizes
+- Improved content hierarchy and readability
+- Considered accessibility and usability throughout the design process
+- Tested and refined layouts across desktop, tablet, and mobile
+
+**Tools and Skills**
+
+Front-End Development, Responsive Design, HTML, CSS, UI/UX, Information Architecture, Content Organization, Accessibility
+
+**Project Focus**
+
+Education Website, Responsive Design, User Experience, Information Architecture
+
+**Live Website**
+
+[www.tmchs.org](https://tmchs.org/)
+
 ---
 
 ### Lucky Alanka
@@ -162,6 +193,10 @@ My work focuses on improving website structure, content presentation, responsive
 - User experience
 - Visual presentation
 
+**Live Website**
+
+[www.bergonziviolins.com](https://bergonziviolins.com/)
+
 ---
 
 ### The Classic Gem
@@ -177,6 +212,10 @@ The project allows me to apply web design, content organization, e-commerce thin
 - Content structure
 - Product presentation
 - Customer experience
+- 
+**Live Website**
+  
+[www.theclassicgem.com](https://www.theclassicgem.com/)
 
 ## Tech Stack
 
